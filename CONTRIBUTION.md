@@ -2,8 +2,9 @@
 
 ## Steps
  - Choose a project (whch is not yet assigned or done by anyone)
- - Choose the framework/languages to work on
- - Start Hacking!
+ - Choose the framework/languages to work on.
+ - Create an issue specifying the project and the framework you want to work on.
+ - As soon as one of the maintainers approve the issuse, Start Hacking!!!
 
 ## Setup the Repo
  - Fork this repo (fork option present on the top right corner)
