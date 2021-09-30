@@ -33,6 +33,10 @@
     |  |..
     |.. 
 ```
+
+## Before Sending a PR
+ - ensure you have added a readme, specifying the details about the project and how to build and run the project
+ 
 ## Sending Pull Request
  - While sending PR, follow the PR template provided and fill in all the details
 
