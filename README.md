@@ -4,6 +4,8 @@ Get started with web development by building projects.
 Choose a project from the list below or suggest your own project and checkout [CONTRIBUTION.md](./CONTRIBUTION.md) to know all the contribution details.
 
 # Project List
+ - [ ] Android Club Event Form
+ - [ ] Image Background Remover
  - [ ] BMI Calculator
  - [ ] Portfolio Website
  - [ ] 3D website
