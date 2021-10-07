@@ -1,0 +1,70 @@
+body
+{
+    margin:0;
+    background-color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.square
+{
+    width: 30%;
+    background:firebrick;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 15%;
+    transition: background 0.25s;
+}
+#container{
+    margin: 20px auto;
+    max-width: 600px;
+}
+h1{
+    margin:0;
+    line-height: 1.1;
+    font-weight: normal;
+    text-align: center;
+    color:white;
+    background:steelblue;
+    text-transform: uppercase;
+    padding: 20px 0px;
+
+}
+#colordisplay
+{
+    font-size: 200%;
+}
+
+#stripe 
+{
+    background: white;
+    height: 35px;
+    text-align: center;
+}
+.selected{
+
+    background: steelblue;
+}
+button
+{
+    background: none;
+    border: none;
+    text-transform: uppercase;
+    height: 100%;
+    font-weight: 700;
+    color:black;
+    font-size: inherit;
+    transition: all 0.25s;
+    letter-spacing: 1px;
+    outline: none;
+}
+#message
+{
+    display: inline-block;
+    width: 200px;
+    font-size: inherit;
+}
+button:hover
+{
+    color: ivory;
+    background: steelblue;
+}
